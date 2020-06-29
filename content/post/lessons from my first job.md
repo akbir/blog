@@ -1,0 +1,41 @@
+---
+title: 'Lessons From My First Job'
+date: 2020-05-01T21:35:13+01:00
+draft: false
+---
+
+*For a couple of my peers and myself, covid-19 has provided a time for some introspection and with that the existential regret that we don’t really know what we’re doing here. 2 years into my career,  I’ve decided to consolidate what principles I've learnt for the next five years.*
+
+### Be Kinder To People
+I’ve only been working for 2 years, but it’s becoming more and more clear, that being kind to people really pays off.  Being kind makes people want to work with you, makes you seem balanced in negotiation and helps foster long term relationships.
+
+Help whenever you can; if they need to leave by 5pm, seem daunted by a task or uncertain of subject matter - make an effort to help. Yes, strive for excellence in your work - but *share* this standard don’t *impose* it on others. People will remember your mannerisms and these gestures, they’re personal and make a disproportionate impact for the effort you put in.
+
+Being kind leads to an environment people enjoy to be in. Being associated with pleasant experiences leads to people actively seeking to work on projects with you, sharing their interesting problems and reaching out to help you themselves. It's no coincidence the team mates I wish to involve in my next venture are those who I have pleasant experiences with.
+
+### Be a Kanye West
+Kanye West (for all controversies), is a world-class producer, music artist and fashion designer. How do you become world-class in some many different disciplines within a single career?
+
+The secret is that Kanye didn’t start as world-class in all 3 different disciplines; he began by specialising. During 1997-2000, Kanye focused entirely on producing music, with a routine of [“five beats a day for three summers”](https://youtu.be/69IpgEfvcrs?t=81), this culminated in his breakthrough contract with Roc-A-Fella records. Kanye was officially a world-class producer. Now, with access to world-class music artists - Kanye learnt from them to then launch his own music artist career in 2004. Then in 2011, established as a world class music artist, Kanye then launched his first fashion show.
+
+For my own career, I’ve realised moonshot projects don’t want 1 person to do 5 things okay - they want 5 people to do 5 different things incredibly well. The best case remains that the project has its very own Kanye, an individual who can do all 5 things incredibly well, but to become a Kanye it seems you need (10+) years of experience. The path to Kanye requires exposure to others who have already built those skills, and then bootstrapping/learning their approach.
+
+So become a world-class in one discipline, be invited to the major league and then learn from the others. Sounds good. So which discipline? Should I try to be a world-class Engineer, Manager, Researcher or Founder? For my friends in film the question is similar - just replace the roles with Screenwriter, DP, Actor and Director. I really don’t know at the time of writing this. Each will requires a different path - be it more school, big tech or a start up.
+
+### Be More Robust To Failure
+Failure cuts me deep. That doesn’t mean I intend to shy away from it - I’m acutely aware of how much failure has improved me as a person. Even with all that being said, when I fail, it hurts - I become depressed, I’m insufferable, I stop exercising, I put on weight and am prone to bouts of crying.
+
+Maybe a month or so after a failure I’m totally aware that this critical moment wasn’t so important, maybe it’s survivor’s bias or just the ability to form my own narrative, but I honestly know in the end I’ll be fine. I can even rationalise it won’t be that serious during the time, but it doesn’t stop the emotional toll this takes.
+
+Mindfulness and having supportive friends has really helped with this, especially friends who are comfortable sharing their failures (and success) with you.
+
+### Work With People Who Care About The Same Things
+Jack Ma famously says “put the customers first, the employees second and the shareholders third”, and whilst this might not be everyone’s ideal prioritization; it's now my opening question to check a potential co-founders suitability.
+
+Until I left school, I’d never truly had to work in large groups - mathematics had not been a team sport. So on entering the job market, I prioritized a role with salary and growth, believing that, no matter who I worked with, I could make the most of the opportunity. I received two large shocks: working with people of different ages and cultures.
+
+Age perplexed me, with employees who had similar upbringings yet had drifted from me on opinions on welfare, racism and immigrantion, a narcissism of small differences. Cultural differences were more understandable, but harder to notice, unless you explicitly ask someone “who owns a company”, you’ll probably only find out in a moment of contention.
+
+But why do any of these matter? I tried to remind myself to “keep your head down”, opinions like this are rarely voiced, and most importantly you should celebrate diversity. However I found that fundamentally, these issues continue to resurface from mundane decisions of the company logo to the equitability of bonuses and pay-cuts.
+
+To complete the ambitious work I care about, giving the bare minimum is not suffice. I will need teammates who make the time fly, that I can learn from and reinforce that I’m at the right place. I realise the diversity I required has to be more specific: I will be looking for a diversity in thought, not in values.
