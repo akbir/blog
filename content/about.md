@@ -3,7 +3,7 @@ title: 'About'
 date: 2014-04-09:12:40+01:00
 ---
 
-I'm a research engineer who cares about operationalising research to benefit people's lives.
+Hi I'm Akbir and a research engineer who cares about operationalising research to benefit people's lives.
 
 I'm obsessed with machine learning and its various subdomains including AI safety, robustness and security. I'm currently, the Chief Research Officer at [Spherical Defence](https://www.crunchbase.com/organization/spherical-defence-labs#section-overview), a London based start-up, which uses deep learning to create intrusion detection systems. I mainly blog here as a form of Feynman test, on anything that takes my interest.
 
