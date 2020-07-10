@@ -1,5 +1,5 @@
 ---
-title: 'How to Test Deep Learning'
+title: 'Production Deep Learning: Testing'
 date: 2019-10-07T16:12:40+01:00
 category: short post
 tags:
