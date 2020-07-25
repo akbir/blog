@@ -7,7 +7,7 @@ draft: false
 One of my biggest fears is forgetting things, it's like the beginning of dementia and the loss of self.
 So when I realise that some of favourite internet moments are being slowly removed, I get unnecessarily stressed.
 
-A key example of this is when I tried to show my friends Big Narstie on Toddla T's BBC 1Xtra show. We simply could not find it. It's incredibly hilarious and shows the unfiltered Narstie that I've come to trust. In Narstie's defence, with his mainstream fame and Channel 4 show, I understand why some of previous work (shout out Uncle Pain) has been removed.
+For example, recently I tried to show my friends Big Narstie on Toddla T's BBC 1Xtra show. We simply could not find it. It's incredibly hilarious and shows the unfiltered Narstie that I've come to trust. In Narstie's defence, with his mainstream fame and Channel 4 show, I understand why some of his previous work (shout out Uncle Pain) has been removed.
 
 Today, a friend stumbled upon a copy from an old facebook page, so in an attempt to preserve it, I've hosted an unlisted copy on Youtube.
 
