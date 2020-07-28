@@ -1,5 +1,5 @@
 ---
-title: 'Production Deep Learning: Testing'
+title: 'Testing For Deep Learning'
 date: 2019-10-07T16:12:40+01:00
 category: short post
 tags:

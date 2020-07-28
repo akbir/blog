@@ -17,7 +17,6 @@ publishDir = "am-khan.github.io"
 
 [params]
   titleEmoji = ":rocket:"
-  # change this!
   twitter = "akbirkhan"
 
 [Permalinks]
