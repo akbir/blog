@@ -3,7 +3,7 @@ title: 'About'
 date: 2014-04-09:12:40+01:00
 ---
 
-![me blogging away](/img/paris.png)
+![me blogging away](/img/paris.jpg)
 
 Hi, I am Akbir! I'm mostly a research engineer who cares about operationalising research to benefit people's lives.
 
