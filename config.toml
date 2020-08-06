@@ -1,14 +1,14 @@
 baseURL = "https://akbir.dev/"
 languageCode = "en-uk"
-title = "Akbir Khan"
+title = "akbir khan"
 theme = "hugo-theme-basic"
+copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>."
+googleAnalytics = "UA-59067982-2"
+publishDir = "am-khan.github.io"
 enableEmoji = true
 enableRobotsTXT = true
 canonifyURLs = true
-copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>."
-description = "Blog and website of Akbir Khan, blogging mainly for tech. Opinions expressed are mine."
-googleAnalytics = "UA-59067982-2"
-publishDir = "am-khan.github.io"
+
 
 [taxonomies]
   category = "categories"
@@ -18,6 +18,8 @@ publishDir = "am-khan.github.io"
 [params]
   titleEmoji = ":rocket:"
   twitter = "akbirkhan"
+  description = "Blog and website of Akbir Khan, blogging mainly for tech. Opinions expressed are mine."
+
 
 [Permalinks]
   post = "post/:slug"

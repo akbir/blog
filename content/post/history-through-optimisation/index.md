@@ -2,6 +2,7 @@
 title: "History Through Optimisation"
 date: 2020-08-05T17:48:55+01:00
 draft: false
+keywords: ['machine learning', 'optimisers', 'history', 'entropy']
 ---
 *Recently I’ve taken to framing events as quantity/optimisation pairs. This is the de-facto framework in machine learning and to evaluate its utility, I wanted to apply it to existing history. These ideas were firstly introduced to me by Eliezier and Richard.*
 
@@ -18,7 +19,7 @@ Before we start, we should clarify some terms. An optimisation is an abstraction
 
 In this work, I’ll go through epochs of history, in which there existed a different predominant optimiser. For structure I've listed these epochs below.
 
-## Epochs of Optimisation
+## Table of Contents
 1. [Start/Nothing](#startnothing)
 2. [Entropy/Sampling](#entropysampling)
 3. [Replicators/Evolution](#replicatorsevolution)

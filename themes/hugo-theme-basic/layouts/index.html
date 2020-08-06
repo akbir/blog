@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
 
     {{ partial "meta.html" . }}
-
+    <meta property="og:description" content="{{ .Site.Params.Description }}" />
     <title>{{ .Site.Title }}</title>
     <link rel="canonical" href="{{ .Permalink }}" />
 {{ $sitetitle := .Site.Title }}
@@ -22,6 +22,7 @@
 {{ end }}
     {{ partial "head_includes.html" . }}
   </head>
+
   <body
     lang="{{ .Site.LanguageCode }}"
     class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"
