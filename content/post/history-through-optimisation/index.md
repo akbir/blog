@@ -136,7 +136,7 @@ There's a finite amount of input resources at any point, and there's a finite nu
 
 In the ideal situation with a fixed output and equally efficient workers, we should share the inputs equally. But in the situation where worker 1 is twice as efficient as worker 2, I should probably give more input resources to worker 2. What we want is for resource allocation to be Pareto optimal. This is just econ chat for saying - there exists no changes that could improve the output without reducing other variables. The optima isn’t unique, as we can imagine two completely different scenarios where the overall output is consistent - below is the equal efficiency case for worker 1 (X) and worker 2 (Y).
 
-{{< figure src="ppf.png" caption="Points A/B relate to Pareto Optimal production, C is possible yet not Pareto, as production is less than it could be. D is an unachievable." width=50% >}}
+{{< figure src="ppf.png" caption="Points A/B relate to Pareto Optimal production, C is possible yet not Pareto, as production is less than it could be. D is an unachievable." width=320 >}}
 
 Now we get the concept, let's solve this problem for the 60 million people in the UK whilst also price all their goods and services accordingly. This begins our next optimisation, which focuses on how markets (attempt) to optimise the allocation of resources to be Pareto Optimal.
 
