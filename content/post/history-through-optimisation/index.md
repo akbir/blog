@@ -1,7 +1,7 @@
 ---
 title: "History Through Optimisation"
 date: 2020-08-05T17:48:55+01:00
-draft: true
+draft: false
 ---
 *Recently I’ve taken to framing events as quantity/optimisation pairs. This is the de-facto framework in machine learning and to evaluate its utility, I wanted to apply it to existing history. These ideas were firstly introduced to me by Eliezier and Richard.*
 
@@ -22,7 +22,7 @@ In this work, I’ll go through epochs of history, in which there existed a diff
 1. [Start/Nothing](#startnothing)
 2. [Entropy/Sampling](#entropysampling)
 3. [Replicators/Evolution](#replicatorsevolution)
-4. [Markets/Pareto Improvements](#marketspareto_Improvements)
+4. [Markets/Pareto Improvements](#marketspareto_improvements)
 5. [Agents/BackProp](#agentsbackprop)
 
 In general, history is terrible at making future predictions, so take this work with a pinch of salt.
