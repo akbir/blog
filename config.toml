@@ -20,7 +20,6 @@ canonifyURLs = true
   twitter = "akbirkhan"
   description = "Blog and website of Akbir Khan, blogging mainly for tech. Opinions expressed are mine."
 
-
 [Permalinks]
   post = "post/:slug"
 

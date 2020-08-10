@@ -71,7 +71,7 @@ $$p_i \propto e^{-\frac{e_i}{\kappa T}}$$
 
 This particular distribution (for velocities of particles in a gas) is called the Maxwell-Boltzmann Distribution. When we want to measure the state, we are simply sampling from an equivalent distribution. Thus the optimisation necessarily is random, it's pretty much up to chance what velocity we find particles in.
 
-{{< figure src="maxwell_boltzmann.png" width=320 >}}
+{{< figure class=right-align src="https://upload.wikimedia.org/wikipedia/commons/8/82/Simulation_of_gas_for_relaxation_demonstration.gif" width=320 >}}
 
 But wait you might be going "But Akbir, my bedroom doesn't randomly sample everytime I look for where my chair is!" And you're right, when looking at macroscopic properties (chair location), we end up taking the *Thermodynamic Limit*:
 
@@ -207,6 +207,6 @@ Entropy optimisation rarely goes wrong, and in those situations we get strange b
 
 This statement is much harder to quantify so let's just outline a sketch. Entropy evolution is a tediously slow process, with irreversible processes taking thousands of years to create simple structure. Genes on the other hand replicate exceptionally quickly making even more complex structures. Next, if we compare genetic evolution with cultural evolution, we find the largest difference is that genes use survival to evaluate fitness whilst memes require other people to imitate them to evaluate fitness. Thus, the optimisation step for genes is once a generation whilst for memes it is almost instantaneous. Equally by considering markets, the true values of a resource propagate almost instantaneously, to the point that market equilibrium shift so quickly that government intervention is required at times.
 
-The rigorous way to evaluate this is to consider how big the search space is which each optimiser must travel through. Further considerations also include how convex the surface is, for example both these surfaces have minimum at the same point, however it's much harder to find the minimum in the example on the right, even both are continuous functions.
+The rigorous way to evaluate this is to consider how big the search space is which each optimiser must travel through. Further considerations also include the nature of the surface, in terms of continuity and shape. For example, both surfaces shown below have minimum at the same point - however in the oscillatory example, its much harder to find the minimum.
 
-{{< figure src="quadratic.png" width=250 >}} {{< figure src="xsin(x).png" width=250 >}}
+{{< figure src="quadratic.png" width=400 >}} {{< figure src="xsin(x).png" width=400 >}}
