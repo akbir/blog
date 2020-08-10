@@ -71,7 +71,7 @@ $$p_i \propto e^{-\frac{e_i}{\kappa T}}$$
 
 This particular distribution (for velocities of particles in a gas) is called the Maxwell-Boltzmann Distribution. When we want to measure the state, we are simply sampling from an equivalent distribution. Thus the optimisation necessarily is random, it's pretty much up to chance what velocity we find particles in.
 
-{{< figure class=right-align src="https://upload.wikimedia.org/wikipedia/commons/8/82/Simulation_of_gas_for_relaxation_demonstration.gif" width=320 >}}
+{{< figure class=right-align src="https://upload.wikimedia.org/wikipedia/commons/8/82/Simulation_of_gas_for_relaxation_demonstration.gif" >}}
 
 But wait you might be going "But Akbir, my bedroom doesn't randomly sample everytime I look for where my chair is!" And you're right, when looking at macroscopic properties (chair location), we end up taking the *Thermodynamic Limit*:
 
@@ -79,7 +79,7 @@ $$N \to \infty, V \to \infty, \frac{N}{V} = constant$$
 
 This transforms our nice distributions into sharp dirac-delta distributions where any sample we take ends up in a single position.
 
-{{< figure src="dirac_delta.png" width=320 >}}
+{{< figure src="dirac_delta.png" >}}
 
 But what about at the quantum scale? It turns out when you sample from a distribution (take a measurement), the state can collapse (transform) into another distribution or a fixed state (called an Eigenstate). So for physics, optimisation involves randomly sampling from a system until it eventually keeps giving the same answer (it has fallen into eigenstates which relate to high entropy). We can consider this a positive feedback loop - once you’ve collapsed into a fixed state, you continue to stay within it.
 
@@ -137,7 +137,7 @@ There's a finite amount of input resources at any point, and there's a finite nu
 
 In the ideal situation with a fixed output and equally efficient workers, we should share the inputs equally. But in the situation where worker 1 is twice as efficient as worker 2, I should probably give more input resources to worker 2. What we want is for resource allocation to be Pareto optimal. This is just econ chat for saying - there exists no changes that could improve the output without reducing other variables. The optima isn’t unique, as we can imagine two completely different scenarios where the overall output is consistent - below is the equal efficiency case for worker 1 (X) and worker 2 (Y).
 
-{{< figure src="ppf.png" caption="Points A/B relate to Pareto Optimal production, C is possible yet not Pareto, as production is less than it could be. D is an unachievable." width=320 >}}
+{{< figure src="ppf.png" caption="Points A/B relate to Pareto Optimal production, C is possible yet not Pareto, as production is less than it could be. D is an unachievable." >}}
 
 Now we get the concept, let's solve this problem for the 60 million people in the UK whilst also price all their goods and services accordingly. This begins our next optimisation, which focuses on how markets (attempt) to optimise the allocation of resources to be Pareto Optimal.
 
@@ -182,7 +182,7 @@ The very act of training a neural network is the optimisation. We search through
 
 So is backprop the path to full blown artificial general intelligence (AGI)? I think our most promising mechanism to reach AGI is iterative amplification. Amplification is when we set agents the tasks of building smarter agents, who in turn build even smarter agents. For a full treatment of how this works (and how to mitigate any associated risk) check out Paul Christiano’s [blog](https://www.jstor.org/stable/1879431?seq=1).
 
-I find this most compelling approach, as it falls into my world view  - where we optimise until we find a new more efficient optimiser. Let's look at the evidence that this works. Currently as researchers we push machine learning forward under four approaches:
+This a compelling approach, as it falls into our world view  - where we optimise until we find a new more efficient optimiser. Let's look at the evidence that this works. Currently as researchers we push machine learning forward under four approaches:
 
 1. New architectures (topologies of a network)
 2. Collect larger and more interesting datasets (better environments)
@@ -209,4 +209,9 @@ This statement is much harder to quantify so let's just outline a sketch. Entrop
 
 The rigorous way to evaluate this is to consider how big the search space is which each optimiser must travel through. Further considerations also include the nature of the surface, in terms of continuity and shape. For example, both surfaces shown below have minimum at the same point - however in the oscillatory example, its much harder to find the minimum.
 
-{{< figure src="quadratic.png" width=400 >}} {{< figure src="xsin(x).png" width=400 >}}
+{{< figure src="quadratic.png" >}}
+{{< figure src="xsinx.png" >}}
+
+## Conclusion
+
+To conclude, we can consider history through the lens of optimisation. This leads us to consider the ramifications and the importance of recent work in deep learning as the beginning of a new era of growth, just as the market ushered in the industrial revolution or RNA led to complex life. This approach also hints at further, that as deep nets become more widespread the chance of new inner optimisation must be checked, as this loop is likely to be caused unexpectedly and not by our own hands. Finally, using this approach we can extrapolate from previous malign optimisations the ramifications of dangerous AGI. 
