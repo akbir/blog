@@ -1,8 +1,7 @@
 ---
-title: 'AI Superpowers - Book Review'
+title: "AI Superpowers (summary)"
 date: 2019-01-02T16:12:40+01:00
-category: short post
-tags:
+keywords: ['Kai-Fue Lee', 'AI Superpowers']
 ---
 
 *Following on from advice from a [flatmate](http://thinkingcomplete.blogspot.com/), I’ve decided I’ll be writing summaries of books I’ve just read — hopefully to flush out some of their ideas within my head.*

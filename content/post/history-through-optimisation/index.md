@@ -33,7 +33,7 @@ In general, history is terrible at making future predictions, so take this work 
 
 Something happens, nobody is quite sure when, but all we know is now we've got lots of energy in a tiny universe, and then suddenly there is a huge universe with plenty of space and time. At this very moment you can't really apply optimisers, you're looking at the most incredible dynamic system in our Universe's history. Thankfully this all calms down in less than 10^-43 of a second. Phew.
 
-{{< figure src="https://imgs.xkcd.com/comics/timeline_of_the_universe.png" width="100%">}}
+{{< figure src="https://imgs.xkcd.com/comics/timeline_of_the_universe.png" width="100%" link="https://xkcd.com/2240/" >}}
 
 ## Entropy/Sampling
 13.7 Billion - 4.3 Billion Years Ago
@@ -112,7 +112,7 @@ The answer is that spice has antimicrobial properties, which reduce the risk of 
 
 But why do we end up liking spice? Let's look at peppers and the chemical agent Capsaicin, which fires pain receptors in our body. Children from warmer climates (where meat contamination is more likely) have learnt Capsaicin to not only fire their pain receptors but also release dopamine. This learned behaviour - stems from copying other people. Coming from an South Asian culture, spice tolerance was a mark of adulthood amongst my family. Spice demonstrates how culture shapes our biology.
 
-{{< figure src="https://imgs.xkcd.com/comics/recipes.png" width=100% >}}
+{{< figure src="https://imgs.xkcd.com/comics/recipes.png" width=100% link=https://xkcd.com/720/ >}}
 
 But what does it mean to be successful? In the example of genes it's the fitness of the environment, but for culture, the environment doesn’t choose what survives, the next generation does. Interestingly humans, who are no smarter than their ape counterparts, are significantly better [imitators](https://www.researchgate.net/publication/6017734_Humans_Have_Evolved_Specialized_Skills_of_Social_Cognition_The_Cultural_Intelligence_Hypothesis). In particular, children have been shown not only to be innately better at copying, but also at choosing whom to copy from. Children are great at using three main proxies for finding the best individuals to copy from: Skill (how an individual performs), Prestige (how others perceive the individual) and Self-Similarity (Age and Ethnicity). Note also, it's not actually the best recipe that is copied, but the most liked chief whose recipes are copied.
 
@@ -137,7 +137,7 @@ There's a finite amount of input resources at any point, and there's a finite nu
 
 In the ideal situation with a fixed output and equally efficient workers, we should share the inputs equally. But in the situation where worker 1 is twice as efficient as worker 2, I should probably give more input resources to worker 2. What we want is for resource allocation to be Pareto optimal. This is just econ chat for saying - there exists no changes that could improve the output without reducing other variables. The optima isn’t unique, as we can imagine two completely different scenarios where the overall output is consistent - below is the equal efficiency case for worker 1 (X) and worker 2 (Y).
 
-{{< figure src="ppf.png" caption="Points A/B relate to Pareto Optimal production, C is possible yet not Pareto, as production is less than it could be. D is an unachievable." >}}
+{{< figure src="ppf.png" caption="Points A/B relate to Pareto Optimal production, C is possible yet not Pareto, as production is less than it could be. D is an unachievable level of production given our input constraints." >}}
 
 Now we get the concept, let's solve this problem for the 60 million people in the UK whilst also price all their goods and services accordingly. This begins our next optimisation, which focuses on how markets (attempt) to optimise the allocation of resources to be Pareto Optimal.
 
@@ -214,4 +214,4 @@ The rigorous way to evaluate this is to consider how big the search space is whi
 
 ## Conclusion
 
-To conclude, we can consider history through the lens of optimisation. This leads us to consider the ramifications and the importance of recent work in deep learning as the beginning of a new era of growth, just as the market ushered in the industrial revolution or RNA led to complex life. This approach also hints at further, that as deep nets become more widespread the chance of new inner optimisation must be checked, as this loop is likely to be caused unexpectedly and not by our own hands. Finally, using this approach we can extrapolate from previous malign optimisations the ramifications of dangerous AGI. 
+To conclude, we can consider history as a series of optimisations. This leads us to consider deep learning as the beginning of a new era of growth, just as the market ushered in the industrial revolution or RNA led to complex life. With this approach, certain dangers become more obvious, such as the worries of unexpected inner-optimisations which are likely to be caused unexpectedly and not by our own hands. Finally, using this approach we can extrapolate from previous malign optimisations the ramifications of dangerous AGI.
