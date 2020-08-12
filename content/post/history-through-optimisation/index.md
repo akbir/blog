@@ -2,9 +2,8 @@
 title: "History Through Optimisation"
 date: 2020-08-05T17:48:55+01:00
 draft: false
-keywords: ['machine learning', 'optimisers', 'history', 'entropy']
+keywords: ['machine learning', 'optimisers', 'history', 'entropy', 'markets', 'pareto']
 ---
-*Recently I’ve taken to framing events as quantity/optimisation pairs. This is the de-facto framework in machine learning and to evaluate its utility, I wanted to apply it to existing history. These ideas were firstly introduced to me by Eliezier and Richard.*
 
 ## Introduction
 All decision tasks (questions with Yes-No answers) can be framed as optimisation tasks (minimum quantity for Yes), and as such, any problem can be considered the optimisation of some quantity. It's an attractive, though mostly useless framework, as optimisation tasks are much harder to solve. Yet somehow we’re in a position, with advances in machine learning, where we have effective computational methods for optimisation. Thus problems in physics, anthropology and economics can be reframed as optimisations and with enough compute, could be replicated. Do I recommend we do this? Hell no. But if we want to create intelligent agents, it's worth looking at what processes led to the most intelligent agents we know, humans.
@@ -25,7 +24,7 @@ In this work, I’ll go through epochs of history, in which there existed a diff
 3. [Replicators/Evolution](#replicatorsevolution)
 4. [Markets/Pareto Improvements](#marketspareto-improvements)
 5. [Agents/BackProp](#agentsbackprop)
-6. [Looking Forward](#lookingforward)
+6. [Looking Forward](#looking-forward)
 
 In general, history is terrible at making future predictions, so take this work with a pinch of salt.
 
