@@ -13,4 +13,4 @@ Previously, I received an MPhil in Advanced Computer Science from the University
 
 If you care about the same things, feel free to drop me an email.
 
-Find out more from my [Resume](/resume.pdf)/[Github](https://github.com/am-khan)/[LinkedIn](https://www.linkedin.com/in/akbir-khan/).
+Find out more from my [Resume](/resume.pdf)/[Github](https://github.com/akbir)/[LinkedIn](https://www.linkedin.com/in/akbir-khan/).
