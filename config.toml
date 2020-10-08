@@ -32,6 +32,10 @@ canonifyURLs = true
   url = "post/"
 
 [[params.menu]]
+  name = "discogs"
+  url = "https://www.discogs.com/user/akbir"
+
+[[params.menu]]
   name = "spotify"
   url = "https://open.spotify.com/user/akbir?si=uMCQZ-miSwKED_YTucb3fQ"
 
