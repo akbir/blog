@@ -7,7 +7,8 @@ draft: false
 *For a couple of my peers and myself, covid-19 has provided a time for some introspection and with that the existential regret that we don’t really know what we’re doing here. 2 years into my career,  I’ve decided to consolidate what principles I've learnt for the next five years.*
 
 ### Be Kinder To People
-I’ve only been working for 2 years, but it’s becoming more and more clear, that being kind to people really pays off.  Being kind makes people want to work with you, makes you seem balanced in negotiation and helps foster long term relationships.
+
+My idea of business has been profoundly influenced by pop culture. From Steve Jobs to John Draper, those titans of industry showed me that to be successful you have to be mean, ruthless and unforgiving. This couldn't be further from the truth. I’ve only been working for 2 years, but it’s becoming more and more clear, that being kind to people really pays off. Being kind makes people want to work with you, makes you seem balanced in negotiation and helps foster long term relationships.
 
 Help whenever you can; if they need to leave by 5pm, seem daunted by a task or uncertain of subject matter - make an effort to help. Yes, strive for excellence in your work - but *share* this standard don’t *impose* it on others. People will remember your mannerisms and these gestures, they’re personal and make a disproportionate impact for the effort you put in.
 
